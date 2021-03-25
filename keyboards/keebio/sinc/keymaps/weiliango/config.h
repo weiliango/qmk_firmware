@@ -1,0 +1,6 @@
+#define TAPPING_TERM 1 
+#define TAPPING_FORCE_HOLD
+#define MATRIX_IO_DELAY 1
+#define RETRO_TAPPING
+#define TAP_CODE_DELAY 1
+
